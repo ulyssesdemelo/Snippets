@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="copyright-footer-960x540.png">
+  <img src="copyright-footer-960x540.avif">
 </p>
 
 ---
