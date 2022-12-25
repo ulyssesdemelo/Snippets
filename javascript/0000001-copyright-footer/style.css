@@ -1,0 +1,33 @@
+* {
+
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+
+  background-color: #16181c;
+  color: #fff;
+  font-family:  Arial, sans-serif;
+
+}
+
+footer {
+
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: clamp(1.5rem, 8vw - 2rem, 3rem);
+
+}
+
+.container {
+
+  padding: 20px;
+  border: 2px solid #fff;
+  border-radius: 50px;
+
+}
